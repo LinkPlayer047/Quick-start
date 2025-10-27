@@ -11,7 +11,7 @@ const Footer = () => {
               <a className="flex flex-1 gap-2 items-center" href="">
                 <img
                   className="object-cover max-w-20 max-h-14"
-                  src="src\assets\Images\GMS logo.png"
+                  src="/GMS logo.png"
                   alt="GMS Logo"
                 />
               </a>

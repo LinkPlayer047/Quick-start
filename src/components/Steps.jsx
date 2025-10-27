@@ -20,7 +20,7 @@ const Steps = () => {
             <ul className="grid grid-cols-2 gap-2">
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -33,7 +33,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -46,7 +46,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -59,7 +59,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -72,7 +72,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -85,7 +85,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -99,7 +99,7 @@ const Steps = () => {
             </ul>
           </div>
           <div className="pt-12 lg:w-1/2">
-            <img src="src\assets\Images\landing.png" alt="image" />
+            <img src="/landing.png" alt="image" />
           </div>
         </div>
         <div className="rounded-xl border border-gray-300 px-8 py-12 flex flex-col lg:flex-row">
@@ -117,7 +117,7 @@ const Steps = () => {
             <ul className="grid grid-cols-2 gap-2">
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -130,7 +130,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -143,7 +143,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -156,7 +156,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -169,7 +169,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -182,7 +182,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -196,7 +196,7 @@ const Steps = () => {
             </ul>
           </div>
           <div className="pt-12 lg:w-1/2">
-            <img src="src\assets\Images\landing.png" alt="image" />
+            <img src="/landing.png" alt="image" />
           </div>
         </div>
         <div className="rounded-xl border border-gray-300 px-8 py-12 flex flex-col lg:flex-row">
@@ -214,7 +214,7 @@ const Steps = () => {
             <ul className="grid grid-cols-2 gap-2">
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -227,7 +227,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -240,7 +240,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -253,7 +253,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -266,7 +266,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -279,7 +279,7 @@ const Steps = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -293,7 +293,7 @@ const Steps = () => {
             </ul>
           </div>
           <div className="pt-12 lg:w-1/2">
-            <img src="src\assets\Images\landing.png" alt="image" />
+            <img src="/landing.png" alt="image" />
           </div>
         </div>
       </div>

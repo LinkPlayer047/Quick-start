@@ -12,7 +12,7 @@ const Customer = () => {
         <div className="rounded-xl border border-gray-300 flex flex-col lg:flex-row items-end">
           <div id="left" className="gap-20 p-8">
             <img
-              src="src/assets/Images/clickup.png"
+              src="/clickup.png"
               alt="Customers"
               className="h-10"
             />
@@ -22,29 +22,29 @@ const Customer = () => {
             </h1>
             <div id="tag-container" className="flex gap-3 flex-wrap">
               <div className="flex gap-2 items-center justify-center bg-yellow-50 w-fit border-yellow-300 px-3 py-1 rounded-md text-yellow-800">
-                <img src="src\assets\Images\tick.png" alt="" className="h-3" />
+                <img src="/tick.png" alt="" className="h-3" />
                 <span className="font-display font-medium">Chromeless UI</span>
               </div>
               <div className="flex gap-2 items-center justify-center bg-yellow-50 w-fit border-yellow-300 px-3 py-1 rounded-md text-yellow-800">
-                <img src="src\assets\Images\tick.png" alt="" className="h-3" />
+                <img src="/tick.png" alt="" className="h-3" />
                 <span className="font-display font-medium">
                   Native Spellcheck
                 </span>
               </div>
               <div className="flex gap-2 items-center justify-center bg-yellow-50 w-fit border-yellow-300 px-3 py-1 rounded-md text-yellow-800">
-                <img src="src\assets\Images\tick.png" alt="" className="h-3" />
+                <img src="/tick.png" alt="" className="h-3" />
                 <span className="font-display font-medium">
                   Task time in menubar
                 </span>
               </div>
               <div className="flex gap-2 items-center justify-center bg-yellow-50 w-fit border-yellow-300 px-3 py-1 rounded-md text-yellow-800">
-                <img src="src\assets\Images\tick.png" alt="" className="h-3" />
+                <img src="/tick.png" alt="" className="h-3" />
                 <span className="font-display font-medium">
                   Notification count in the dock
                 </span>
               </div>
               <div className="flex gap-2 items-center justify-center bg-yellow-50 w-fit border-yellow-300 px-3 py-1 rounded-md text-yellow-800">
-                <img src="src\assets\Images\tick.png" alt="" className="h-3" />
+                <img src="/tick.png" alt="" className="h-3" />
                 <span className="font-display font-medium">
                   Global hotkey to create task
                 </span>
@@ -61,7 +61,7 @@ const Customer = () => {
             <div id="user" className="flex gap-4 mt-10">
               <div className="w-15">
                 <img
-                  src="src\assets\Images\user.png"
+                  src="/user.png"
                   alt="User"
                   className="h-10"
                 />
@@ -82,7 +82,7 @@ const Customer = () => {
           </div>
           <div id="right">
             <img
-              src="src\assets\Images\Dashboard.png"
+              src="/Dashboard.png"
               className="pl-10 mb-20 mt-10"
               alt=""
             />
@@ -110,7 +110,7 @@ const Customer = () => {
               <div className="flex items-center mt-5">
                 <div className="flex justify-center items-center gap-5 h-10">
                   <img
-                    src="src\assets\Images\user.png"
+                    src="/user.png"
                     alt="user"
                     className="w-15 h-15"
                   />
@@ -142,7 +142,7 @@ const Customer = () => {
               <div className="flex items-center mt-5">
                 <div className="flex justify-center items-center gap-5 h-10">
                   <img
-                    src="src\assets\Images\user.png"
+                    src="/user.png"
                     alt="user"
                     className="w-15 h-15"
                   />
@@ -174,7 +174,7 @@ const Customer = () => {
               <div className="flex items-center mt-5">
                 <div className="flex justify-center items-center gap-5 h-10">
                   <img
-                    src="src\assets\Images\user.png"
+                    src="/user.png"
                     alt="user"
                     className="w-15 h-15"
                   />
@@ -198,7 +198,7 @@ const Customer = () => {
           </div>
           <div id="right" className="lg:w-1/2">
             <img
-              src="src\assets\Images\Dashboard.png"
+              src="/Dashboard.png"
               className="pl-10 mb-20 mt-10"
               alt=""
             />

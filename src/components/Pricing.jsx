@@ -23,7 +23,7 @@ const Pricing = () => {
             <ul className=" gap-2">
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -33,7 +33,7 @@ const Pricing = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -69,7 +69,7 @@ const Pricing = () => {
             <ul className=" gap-2">
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -79,7 +79,7 @@ const Pricing = () => {
               </li>
               <li className="flex gap-4 items-center mt-5">
                 <img
-                  src="src\assets\Images\tick.png"
+                  src="/tick.png"
                   alt="tick"
                   className="h-3 w-3"
                 />
@@ -122,7 +122,7 @@ const Pricing = () => {
               <ul className=" gap-2">
                 <li className="flex gap-4 items-center mt-5">
                   <img
-                    src="src\assets\Images\tick.png"
+                    src="/tick.png"
                     alt="tick"
                     className="h-3 w-3"
                   />
@@ -132,7 +132,7 @@ const Pricing = () => {
                 </li>
                 <li className="flex gap-4 items-center mt-5">
                   <img
-                    src="src\assets\Images\tick.png"
+                    src="/tick.png"
                     alt="tick"
                     className="h-3 w-3"
                   />

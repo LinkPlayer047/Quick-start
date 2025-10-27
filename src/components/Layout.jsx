@@ -15,7 +15,7 @@ const Layout = () => {
             <div className="bg-white/60 rounded-2xl w-full h-full p-6 flex flex-col gap-6 items-center">
               <h3 className="text-2xl">Native Notification</h3>
               <img
-                src="src\assets\Images\review.png"
+                src="/review.png"
                 alt="Review"
                 className="w-auto h-40"
               />
@@ -29,7 +29,7 @@ const Layout = () => {
                 improvements, security patches, & additional features.
               </p>
               <img
-                src="src\assets\Images\review.png"
+                src="/review.png"
                 alt="Review"
                 className="w-auto h-40"
               />
@@ -39,32 +39,7 @@ const Layout = () => {
             <div className="bg-white/60 rounded-2xl w-full h-full p-6 flex flex-col gap-6 items-center">
               <h3 className="text-2xl">Native Notification</h3>
               <img
-                src="src\assets\Images\review.png"
-                alt="Review"
-                className="w-auto h-40"
-              />
-            </div>
-          </div>
-          <div className="rounded-2xl p-[1px] bg-slate-100 hover:bg-gradient-to-br hover:from-red-200 hover:via-purple-200 hover:to-yellow-200">
-            <div className="bg-white/60 rounded-2xl w-full h-full p-6 flex flex-col gap-6 items-center">
-              <h3 className="text-2xl">Native Notification</h3>
-              <p className="text-sm font-light text-center">
-                We'll ensure the underlying is up to dte and deliver performance
-                improvements, security patches, & additional features.
-              </p>
-
-              <img
-                src="src\assets\Images\review.png"
-                alt="Review"
-                className="w-auto h-40"
-              />
-            </div>
-          </div>
-          <div className="rounded-2xl p-[1px] bg-slate-100 hover:bg-gradient-to-br hover:from-red-200 hover:via-purple-200 hover:to-yellow-200">
-            <div className="bg-white/60 rounded-2xl w-full h-full p-6 flex flex-col gap-6 items-center">
-              <h3 className="text-2xl">Native Notification</h3>
-              <img
-                src="src\assets\Images\review.png"
+                src="/review.png"
                 alt="Review"
                 className="w-auto h-40"
               />
@@ -79,7 +54,32 @@ const Layout = () => {
               </p>
 
               <img
-                src="src\assets\Images\review.png"
+                src="/review.png"
+                alt="Review"
+                className="w-auto h-40"
+              />
+            </div>
+          </div>
+          <div className="rounded-2xl p-[1px] bg-slate-100 hover:bg-gradient-to-br hover:from-red-200 hover:via-purple-200 hover:to-yellow-200">
+            <div className="bg-white/60 rounded-2xl w-full h-full p-6 flex flex-col gap-6 items-center">
+              <h3 className="text-2xl">Native Notification</h3>
+              <img
+                src="/review.png"
+                alt="Review"
+                className="w-auto h-40"
+              />
+            </div>
+          </div>
+          <div className="rounded-2xl p-[1px] bg-slate-100 hover:bg-gradient-to-br hover:from-red-200 hover:via-purple-200 hover:to-yellow-200">
+            <div className="bg-white/60 rounded-2xl w-full h-full p-6 flex flex-col gap-6 items-center">
+              <h3 className="text-2xl">Native Notification</h3>
+              <p className="text-sm font-light text-center">
+                We'll ensure the underlying is up to dte and deliver performance
+                improvements, security patches, & additional features.
+              </p>
+
+              <img
+                src="/review.png"
                 alt="Review"
                 className="w-auto h-40"
               />
