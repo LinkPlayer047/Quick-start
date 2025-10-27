@@ -12,7 +12,7 @@ const Customer = () => {
         <div className="rounded-xl border border-gray-300 flex flex-col lg:flex-row items-end">
           <div id="left" className="gap-20 p-8">
             <img
-              src="src\assets\Images\clickup.png"
+              src="src/assets/Images/clickup.png"
               alt="Customers"
               className="h-10"
             />
